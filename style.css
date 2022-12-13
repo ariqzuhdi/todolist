@@ -1,0 +1,21 @@
+.inilist1:hover {
+  background-color: gainsboro;
+}
+
+.inilist {
+  padding-left: 10%;
+  width: 50%;
+}
+
+.iniinput {
+  margin-left: 12.5%;
+}
+
+.inicontainer {
+  margin-top: 4%;
+}
+
+.inijudul {
+  margin-top: 2%;
+  text-decoration: underline wavy #f78120;
+}
